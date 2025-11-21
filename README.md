@@ -2,7 +2,7 @@
 
 Enterprise-grade AI portal for predicting and optimizing vehicle ingress/egress performance for Mahindra vehicles.
 
-## 🎯 Overview
+##  Overview
 
 ErgoSight is a comprehensive PoC dashboard that delivers:
 
@@ -12,7 +12,7 @@ ErgoSight is a comprehensive PoC dashboard that delivers:
 - **AI Copilot**: Natural language interface for engineering insights and recommendations
 - **Validation Metrics**: Model performance tracking with 95.6% accuracy
 
-## 🚀 Features
+## Features
 
 ### 1. Portfolio Overview
 - KPI tiles showing average ratings, at-risk vehicles, and best performers
@@ -57,7 +57,7 @@ ErgoSight is a comprehensive PoC dashboard that delivers:
 - 95% model accuracy optimization tips
 - Python code examples and best practices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Next.js 14 with React 18
 - **Language**: TypeScript
@@ -66,7 +66,7 @@ ErgoSight is a comprehensive PoC dashboard that delivers:
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Install dependencies
@@ -82,11 +82,11 @@ npm run build
 npm start
 ```
 
-## 🌐 Access
+##  Access
 
 Open [http://localhost:4000](http://localhost:4000) in your browser after starting the development server.
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 **Automotive-Grade UI**
 - Clean, minimal interface optimized for engineering workflows
@@ -127,7 +127,7 @@ The Ergo AI Copilot can:
 - "Compare Scorpio-N vs XUV700 for P95 male"
 - "Write a design review summary for XUV700"
 
-## 🔐 Security & Compliance
+##  Security & Compliance
 
 - Authentication via Mahindra SSO (ready for integration)
 - All queries logged for audit trail
@@ -135,7 +135,7 @@ The Ergo AI Copilot can:
 - Data privacy compliance ready
 - Secure API endpoints (backend ready)
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - Real AI/ML model integration
 - Live CAD data import
@@ -145,18 +145,18 @@ The Ergo AI Copilot can:
 - Export to engineering reports
 - Integration with PLM systems
 
-## 👥 User Roles
+##  User Roles
 
 - **Engineers**: Deep analysis, scenario testing, design optimization
 - **Team Leads**: Portfolio overview, cross-model comparisons
 - **Management**: KPI dashboards, summary reports
 - **Data Scientists**: Model performance, validation metrics
 
-## 📝 License
+##  License
 
 Proprietary - Mahindra & Mahindra Ltd.
 
-## 🤝 Support
+##  Support
 
 For questions or support, contact the ErgoSight team or Mahindra Engineering IT.
 
